@@ -1,5 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on 🤓3d registration☝️
+- 🔭 I used to work on 3d registration, specifically multi-instance point cloud registration.
+- 🌱 I’m exploring 3d reconstruction, recovering 3d shape & appearance from multi-view images.
   
 <!--
 **add2333/add2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
